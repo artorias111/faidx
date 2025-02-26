@@ -1,2 +1,2 @@
 # faidx
-Summarize a fasta super quick, written in Rust. 
+Summarize a fasta. Personal project for Rust practice. 
