@@ -1,1 +1,0 @@
-/Users/shrirambhat/Library/CloudStorage/OneDrive-UniversityofIllinois-Urbana/code/lang_prac/rust_redux/faidx/target/debug/faidx: /Users/shrirambhat/Library/CloudStorage/OneDrive-UniversityofIllinois-Urbana/code/lang_prac/rust_redux/faidx/src/main.rs
